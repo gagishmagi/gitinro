@@ -1,4 +1,4 @@
 name = "Shaked"
-age = 32
+age = 18
 
 print("Hello", name)
