@@ -1,5 +1,5 @@
 name = "Shaked"
-age = 32
+age = 18
 tz = "123456789"
 
 print("Hello", name)
