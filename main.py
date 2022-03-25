@@ -1,3 +1,3 @@
-name = "Yuri"
+name = "Shaked"
 
 print("Hello", name)
